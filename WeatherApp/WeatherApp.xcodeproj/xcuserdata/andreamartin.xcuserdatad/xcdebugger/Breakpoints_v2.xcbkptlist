@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8D6B999D-98AB-4087-B7BB-F056CEAC69E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/DataLayer/WeatherNetworking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "retriveAutocompleteText(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - 4bd7c481e88f8305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - 26579200081a606f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - 1c49cc78a47c0b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - c4b2f01fda1bcf0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - 4bd7c481e88f8305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - 1c49cc78a47c0b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6717D1FC-0E89-4C21-A12A-04A4E2D46DBD - c4b2f01fda1bcf0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for WeatherApp.WeatherNetworking.retriveAutocompleteText(text: Swift.String) async throws -&gt; WeatherApp.AutoCompleteResponse"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/WeatherNetworking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A796C0F-DC3E-458E-99B4-DB4995B6AF69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/DataLayer/DataController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "userSelectedLocation(location:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC659B8A-084B-4A90-9874-9C8CAC1A4B83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/DataLayer/DataController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "saveData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74412DB1-C1F8-43C5-891B-9CE6C208A275"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/DataLayer/DataController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(network:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74412DB1-C1F8-43C5-891B-9CE6C208A275 - 3b70c52cc9f9ed33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApp.DataController.init(network: WeatherApp.Networkable) -&gt; WeatherApp.DataController"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/DataController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "74412DB1-C1F8-43C5-891B-9CE6C208A275 - 3b70c52cc9f9ed33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApp.DataController.init(network: WeatherApp.Networkable) -&gt; WeatherApp.DataController"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andreamartin/Desktop/WeatherApp/WeatherApp/DataLayer/DataController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C24621A-FF79-4A8A-9816-7EEFC121D0C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/DataLayer/DataController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "saveData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
